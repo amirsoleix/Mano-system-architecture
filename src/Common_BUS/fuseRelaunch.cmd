@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/asole/ISE/Common_BUS/Common_BUS_isim_beh.exe" -prj "C:/Users/asole/ISE/Common_BUS/Common_BUS_beh.prj" "work.Common_BUS" 

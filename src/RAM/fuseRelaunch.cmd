@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/asole/ISE/RAM/RAM32x16Bits_isim_beh.exe" -prj "C:/Users/asole/ISE/RAM/RAM32x16Bits_beh.prj" "work.RAM32x16Bits" 

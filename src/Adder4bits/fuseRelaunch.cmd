@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/asole/ISE/Adder4bits/Adder4bits_isim_beh.exe" -prj "C:/Users/asole/ISE/Adder4bits/Adder4bits_beh.prj" "work.Adder4bits" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/asole/ISE/ALU_16bits/ALU_16bits_isim_beh.exe" -prj "C:/Users/asole/ISE/ALU_16bits/ALU_16bits_beh.prj" "work.ALU_16bits" 
