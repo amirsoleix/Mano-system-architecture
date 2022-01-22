@@ -1,6 +1,6 @@
 # Mano Architecture Implmentation using VHDL  
 The project consists of three segments, the first two being the implementation of necessary modules e.g. Arithmetic Logic Unit or RAM memory for the Mano architecture or any other computer system architecture, and third being the complete implementation of Mano architecture.  
-## Part 1: FullAdder  
+## Part 1: Full Adder  
 This part contains and introduction to the programming using VHDL description language and Xilinx ISE. A 1-bit FullAdder module is added and then the 4-bit FullAdder module is implmented using four 1-bit FullAdder modules put in a series connection.  
 ## Part 2: Common BUS
 Focuses on the implmentation of Common BUS which is the main data path in this architecture. More information about the implmentation and the configuration of BUS is given in project report.  
